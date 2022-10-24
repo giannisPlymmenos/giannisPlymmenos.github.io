@@ -150,3 +150,8 @@ html {
     -webkit-text-size-adjust: none;
     text-size-adjust: none;
 }
+
+html, body {
+  height: 100vh;
+  height: calc(var(--vh, 1vh) * 100);
+}
