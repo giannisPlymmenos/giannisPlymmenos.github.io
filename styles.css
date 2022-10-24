@@ -17,11 +17,14 @@ body{
     border-radius: 30px;
     
     
+    
+    
 }
 h2{
     text-align: left;
     padding-top: 50px;
     padding-left:50px;
+    margin: -T 0;
     
 }
 .firstline{
@@ -30,11 +33,13 @@ h2{
     background-color: black;
     padding: 0px;
     margin: 50px auto;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 .aboutmep{
     text-align: center;
-    padding: 40px;
-    font-size: larger;
+    top: 120px;
+    font-size: 150%;
+    position: relative;
 }
 .secondline{
     width: 100%;
@@ -82,7 +87,11 @@ h2{
     width: 100%;
     height: 5px;
     background-color: black;
-    padding: 0px;
+    position: relative; 
+    margin-top: 400px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    
+
     
 
 }
@@ -90,5 +99,46 @@ h2{
 .linkedin{
     text-align: center;
     margin: 0 auto;
+
+}
+
+
+
+
+.aboutme{
+    position: relative;
+    left: 40px;
+    top: 19px;
+    color: black;
+    font-size: 20px;
     
+}
+
+.stu{
+    
+    position: relative;
+    left: 150px;
+    color: black;
+    font-size: 20px;
+    top: -2px;
+}
+
+
+
+
+a:visited{
+    background-color: black;
+}
+
+
+.secondline2{
+    width: 100%;
+    height: 5px;
+    background-color: black;
+    padding: 0px;
+    margin: 125px auto;
+    position: relative;
+    top: 250px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
 }
