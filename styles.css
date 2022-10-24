@@ -1,0 +1,88 @@
+h1{
+    text-align: center;
+    padding-top: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+body{
+    background-color: rgba(6, 87, 87, 0.281);
+}
+.mainbox{
+    width:95%;
+    height: 700px;
+    background-color: rgba(4, 70, 124, 0.568);
+    margin: 10px auto;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 30px;
+    
+    
+}
+h2{
+    text-align: left;
+    padding-top: 50px;
+    padding-left:50px;
+    
+}
+.firstline{
+    width: 100%;
+    height: 5px;
+    background-color: black;
+    padding: 0px;
+    margin: 50px auto;
+}
+.aboutmep{
+    text-align: center;
+    padding: 40px;
+    font-size: larger;
+}
+.secondline{
+    width: 100%;
+    height: 5px;
+    background-color: black;
+    padding: 0px;
+    margin: 125px auto;
+
+}
+.personal{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 20px auto;
+    font-size: large;
+    font-style: oblique;
+    
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+  body{
+    position: relative;
+    
+  }
+  .photo1{
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+   
+
+.studies{
+    text-align: left;
+    
+    padding-left: 10px;
+    font-size:larger;
+    
+}
+.thirdline{
+    width: 100%;
+    height: 5px;
+    background-color: black;
+    padding: 0px;
+    
+
+}
